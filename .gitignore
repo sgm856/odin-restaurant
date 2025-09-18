@@ -1,3 +1,10 @@
 
 node_modules
 dist
+*~
+*.swp
+*.swo
+*~
+*.un~
+.*.swp
+.*.swo
